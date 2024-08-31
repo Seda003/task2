@@ -30,7 +30,7 @@ app.post('/products', async function(req, res) {
 
 
 app.listen(3028, () => {
-    console.log('Server is running on port 2003');
+    console.log('Server is running on port 3028');
 });
 
 
